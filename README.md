@@ -1,16 +1,16 @@
 # Object Detection in Images Using Transformers
 
 ## Description
-
-This project is dedicated to the development of a back-end application in Python for object detection in images (ex Bank Docs) using transformer models via API. 
-It also includes test cases to verify the performance and correctness of the model.
+This project is a back-end application developed in Python for object detection in images using transformer models. 
+The application offers a RESTful API for submitting images and obtaining detection results,with error handling and input validation features.
+The project also includes pytest to ensure the code quality.
 
 ## Features
 
 - Object detection in images using transformer models
 - RESTful API to submit images and get detection results
 - Error handling and input validation
-- Unit and integration tests to ensure code quality
+- Pytests to ensure code quality
 
 ## Project Files
 requirement.txt: This file lists the Python dependencies needed for the project.
