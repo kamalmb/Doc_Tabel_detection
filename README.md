@@ -13,19 +13,19 @@ The project also includes pytest to ensure the code quality.
 - Pytests to ensure code quality
 
 ## Project Files
-requirement.txt: This file lists the Python dependencies needed for the project.
-Dockerfile : This file defines the Docker environment for the application.
-app.py : This is the main application file.
-test_with_pytest : This is the file containing the tests for the application.
-Tabeldetector.py : This is the file containing the TableDetector class to detect object in Bank doc images.
+- requirement.txt: This file lists the Python dependencies needed for the project.
+- Dockerfile : This file defines the Docker environment for the application.
+- app.py : This is the main application file.
+- test_with_pytest : This is the file containing the tests for the application.
+- Tabeldetector.py : This is the file containing the TableDetector class to detect object in Bank doc images.
 
 ## The user guide 
-This user guide walks you through installing, using, and testing your object detection application using Docker
-cmd for installing and building our customed docker image : docker build -t appimage .
-cmd for runing the docker image : docker run appimage 
-cmd for app testing : 
-  docker run -it appimage /bin/bash
-  python test_with_pytest.py
+- This user guide walks you through installing, using, and testing your object detection application using Docker
+- cmd for installing and building our customed docker image : docker build -t appimage .
+- cmd for runing the docker image : docker run appimage 
+- cmd for app testing : 
+  -- docker run -it appimage /bin/bash
+  -- python test_with_pytest.py
 
 ## Results
 
