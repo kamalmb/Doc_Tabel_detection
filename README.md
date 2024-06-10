@@ -35,9 +35,9 @@ cmd for app testing :
 ![Screenshot](Api_result.jpg)
 
 ### teminal output  
-![Screenshot](screenshot1.png)
+![Screenshot](screenshot/screenshot1.png)
 
 
-![Screenshot](screenshot2.png)
+![Screenshot](screenshot/screenshot2.png)
 
-![Screenshot](screenshot3.png)
+![Screenshot](screenshot/screenshot3.png)
