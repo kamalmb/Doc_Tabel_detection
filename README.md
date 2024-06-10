@@ -48,3 +48,5 @@ This user guide for installing, runing, and testing the object detection applica
 ### terminal output (case of not existing image file)
 - in the case of none detecting object, we use test.jpg image as input
 ![Screenshot](screen_shots/screnshot3.png)
+
+- if you face HTTP error 503: Service Unavailable - 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/TahaDouaji/detr-doc-table-detection ,try again 
