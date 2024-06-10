@@ -45,7 +45,7 @@ This user guide for installing, runing, and testing the object detection applica
 ##### run the test => python test_with_pytest.py
 ### terminal pytest output
 ![Screenshot](screen_shots/screenshot2.png)
-### terminal output (case of not existing image file)
+### terminal output (case of not existing image file or service availability)
 - in the case of none detecting object, we use test.jpg image as input
 ![Screenshot](screen_shots/screnshot3.png)
 
