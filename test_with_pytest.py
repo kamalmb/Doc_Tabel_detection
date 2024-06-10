@@ -9,7 +9,7 @@ tabledetector=TableDetector(filename)
 def test_get_data():
     """ Test that the POST request returns a successful response and non-null JSON data   """
     #we assume that the service is available  
-    _=tabledetector.post_data()
+    tabledetector.post_data()
     assert tabledetector.get_reponse().status_code==200
     assert tabledetector.get_reponse().json() is not None
 
