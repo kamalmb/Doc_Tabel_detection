@@ -46,4 +46,5 @@ This user guide walks you through installing, using, and testing your object det
 ### terminal pytest output
 ![Screenshot](screen_shots/screenshot2.png)
 ### terminal output (case of not existing image file)
+- in the case of none detecting object, we use test.jpg image as input
 ![Screenshot](screen_shots/screnshot3.png)
