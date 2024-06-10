@@ -35,7 +35,7 @@ This user guide for installing, runing, and testing the object detection applica
 ![Screenshot](Api_result.jpg)
 
 
-#### using this cmd Building ,runninig and testing 
+#### using this cmds for Building ,runninig and testing 
 ##### build the image => docker build -t appimage .
 ##### run the app => docker run appimage
 ### teminal output  
