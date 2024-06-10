@@ -17,10 +17,10 @@ The project also includes pytest to ensure the code quality.
 - Dockerfile : This file defines the Docker environment for the application.
 - app.py : This is the main application file.
 - test_with_pytest : This is the file containing the tests for the application.
-- Tabeldetector.py : This is the file containing the TableDetector class to detect object in Bank doc images.
+- Tabeldetector.py : This is the file containing the TableDetector class to detect object in Bank doc images via API.
 
 ## The user guide 
-This user guide walks you through installing, using, and testing your object detection application using Docker
+This user guide for installing, runing, and testing the object detection application using Docker
 - cmd for installing and building our customed docker image : docker build -t appimage .
 - cmd for runing the docker image : docker run appimage 
 - cmd for app testing : 
