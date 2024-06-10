@@ -35,8 +35,13 @@ cmd for app testing :
 ![Screenshot](Api_result.jpg)
 
 ### teminal output  
+#### using this cmd 
+##### docker run appimage
 ![Screenshot](screen_shots/screenshot1.png)
 ### terminal pytest output
+#### using this cmds
+##### docker run -it appimage /bin/bash
+##### python test_with_pytest.py
 ![Screenshot](screen_shots/screenshot2.png)
 ### terminal output (case of not existing image file)
-![Screenshot](screen_shots/screenshot3.png)
+![Screenshot](screen_shots/screnshot3.png)
