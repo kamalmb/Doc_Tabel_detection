@@ -23,7 +23,7 @@ The project also includes pytest to ensure the code quality.
 This user guide for installing, runing, and testing the object detection application using Docker
 - cmd for installing and building our customed docker image : docker build -t appimage .
 - cmd for runing the docker image : docker run appimage 
-- cmd for app testing : 
+- cmds for app testing : 
   - docker run -it appimage /bin/bash
   - python test_with_pytest.py
 
