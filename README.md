@@ -20,7 +20,7 @@ The project also includes pytest to ensure the code quality.
 - Tabeldetector.py : This is the file containing the TableDetector class to detect object in Bank doc images.
 
 ## The user guide 
-- This user guide walks you through installing, using, and testing your object detection application using Docker
+This user guide walks you through installing, using, and testing your object detection application using Docker
 - cmd for installing and building our customed docker image : docker build -t appimage .
 - cmd for runing the docker image : docker run appimage 
 - cmd for app testing : 
