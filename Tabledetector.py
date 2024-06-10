@@ -28,7 +28,6 @@ class TableDetector:
             data = f.read()
         try:
             self.response = requests.post(self.API_URL, headers=self.headers, data=data)
-            self.Json_response=self.response.json()
             self.response.raise_for_status()
         except requests.exceptions.HTTPError as err:
             # handel HTTP error
