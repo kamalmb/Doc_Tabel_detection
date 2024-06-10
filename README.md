@@ -35,8 +35,8 @@ cmd for app testing :
 ![Screenshot](Api_result.jpg)
 
 ### teminal output  
-![Screenshot](screenshots/screenshot1.png)
+![Screenshot](screen_shots/screenshot1.png)
 ### terminal pytest output
-![Screenshot](screenshots/screenshot2.png)
+![Screenshot](screen_shots/screenshot2.png)
 ### terminal output (case of not existing image file)
-![Screenshot](screenshots/screenshot3.png)
+![Screenshot](screen_shots/screenshot3.png)
