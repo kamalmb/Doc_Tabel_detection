@@ -3,7 +3,7 @@ import time
 
 if __name__ == "__main__":
     # the image name to be processed
-    image_name = "test.jpg"
+    image_name = "Bank-doc.jpg"
     # Create an instance of TableDetector 
     my_table_detector = TableDetector(image_name)
 
